@@ -7,15 +7,15 @@
             android:icon="@drawable/ic_menu_camera"
             android:title="Scan Product" />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/nav_history"
             android:icon="@drawable/ic_menu_gallery"
             android:title="History" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/nav_allergies"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="Allergies" />
         <item
-            android:id="@+id/nav_manage"
+            android:id="@+id/nav_preferences"
             android:icon="@drawable/ic_menu_manage"
             android:title="Preferences" />
     </group>
